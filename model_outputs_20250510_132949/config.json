@@ -1,0 +1,10 @@
+{
+    "data_dir": "/home/kaan/Desktop/processed_zoo_dataset",
+    "output_dir": "./model_outputs_20250510_132949",
+    "batch_size": 32,
+    "num_epochs": 30,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "image_size": 224,
+    "model_name": "vit_base_patch16_224"
+}

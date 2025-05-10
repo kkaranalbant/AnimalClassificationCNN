@@ -1,0 +1,9 @@
+{
+    "data_dir": "src/processed_zoo_dataset",
+    "output_dir": "./model_outputs_20250510_133822",
+    "batch_size": 32,
+    "num_epochs": 30,
+    "learning_rate": 0.0003,
+    "image_size": 224,
+    "model_name": "vit_base_patch16_224"
+}
