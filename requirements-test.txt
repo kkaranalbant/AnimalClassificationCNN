@@ -1,0 +1,12 @@
+pytest
+pytest-mock
+pytest-cov
+scikit-learn
+tqdm
+matplotlib
+numpy
+torch
+torchvision
+timm
+pandas
+seaborn

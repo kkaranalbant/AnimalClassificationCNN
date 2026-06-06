@@ -50,3 +50,11 @@ u{251C}u{2500}u{2500} class_mapping.json       # Class label mappings
 u{251C}u{2500}u{2500} src/                     # Additional source modules
 u{2514}u{2500}u{2500} model_outputs/           # Trained model artifacts
 ```
+## u{1F9EA} Testing
+
+We use **pytest** to ensure our data pipeline and model utilities work as expected. To run the tests, first install the test dependencies:
+
+``bash
+pip install -r requirements-test.txt
+pytest
+``
